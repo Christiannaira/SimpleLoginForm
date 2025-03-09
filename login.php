@@ -28,6 +28,7 @@
 
                         <h1>Sign Up</h1>
 
+
                         <form action="welcome.php" method="POST">
 
                             <div class="name_input">
@@ -40,11 +41,16 @@
                                 <input type="text" placeholder="Password" name="password">
                             </div>
 
-                            <button type="submit">Log in</button>
-                            
-                            
+                            <button type="submit" id="form_button">Log in</button>
+                                                        
 
                         </form>
+
+                    </div>
+
+                    <div class="home_social_contents">
+                        
+                        <h2>Or login with</h2>
 
                     </div>
 
